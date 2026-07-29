@@ -88,7 +88,7 @@ Collaboration on meaningful open-source and full stack projects.
 
 📫 **Reach Me**
 
-**your@email.com**
+**nafisshahworkmail@gmail.com**
 
 </td>
 </tr>
