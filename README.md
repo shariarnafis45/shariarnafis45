@@ -4,9 +4,9 @@
 
 # Shariar Nafis
 
-### Full Stack Developer
+### Full Stack Web Developer
 
-Building scalable, modern web applications with clean architecture, thoughtful user experiences, and maintainable code.
+Building scalable, high-performance web applications with clean architecture, intuitive user experiences, and maintainable code.
 
 <p>
   <a href="https://github.com/shariarnafis45">
@@ -15,15 +15,15 @@ Building scalable, modern web applications with clean architecture, thoughtful u
   <a href="https://linkedin.com/in/shariarnafis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:nafisshahworkmail@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=111111&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=shariarnafis45&label=Profile%20Views&color=111111&style=flat-square" />
 
 </div>
 
@@ -31,11 +31,11 @@ Building scalable, modern web applications with clean architecture, thoughtful u
 
 # About Me
 
-I'm a **Full Stack Developer** based in **Dhaka, Bangladesh**, focused on building modern, responsive, and scalable web applications.
+I'm a **Full Stack Web Developer** based in **Dhaka, Bangladesh**, passionate about building scalable, performant, and user-focused web applications.
 
-I enjoy turning ideas into polished digital products by combining clean frontend development with reliable backend architecture. My approach emphasizes simplicity, performance, maintainability, and a great user experience.
+My primary stack includes **Next.js, React, Node.js, Express.js, and MongoDB**, allowing me to build complete end-to-end solutions—from intuitive user interfaces to secure backend APIs.
 
-Whether I'm developing a SaaS platform, creating an admin dashboard, or building a complete web application, I strive to write code that's clean, reusable, and easy to maintain.
+I enjoy transforming ideas into production-ready digital products while maintaining clean architecture, reusable code, and exceptional user experience.
 
 ---
 
@@ -47,14 +47,14 @@ Whether I'm developing a SaaS platform, creating an admin dashboard, or building
 
 🌱 **Learning**
 
-Advanced Backend Architecture & System Design
+System Design & Scalable Backend Architecture
 
 </td>
 <td>
 
 🚀 **Building**
 
-Modern Full Stack Web Applications with Next.js
+Production-ready Full Stack Applications with Next.js
 
 </td>
 </tr>
@@ -64,14 +64,14 @@ Modern Full Stack Web Applications with Next.js
 
 💡 **Exploring**
 
-Performance Optimization, Authentication & Scalable UI
+Performance Optimization, Authentication & Clean Architecture
 
 </td>
 <td>
 
 🎯 **Goal**
 
-Build production-ready applications and continuously improve as a software engineer.
+Building software that creates real-world impact.
 
 </td>
 </tr>
@@ -81,7 +81,7 @@ Build production-ready applications and continuously improve as a software engin
 
 🤝 **Open To**
 
-Collaboration on meaningful open-source and full stack projects.
+Open Source Collaboration & Freelance Opportunities
 
 </td>
 <td>
@@ -116,13 +116,13 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
-**Repository**
+**🔗 Repository**
 
-`🔗 https://github.com/shariarnafis45/Legal-Ease`
+`https://github.com/shariarnafis45/Legal-Ease`
 
-**Live Demo**
+**🌐 Live Demo**
 
-`🌐 https://legal-ease-nafix.vercel.app/`
+`https://legal-ease-nafix.vercel.app/`
 
 ---
 
@@ -134,31 +134,13 @@ A modern hiring platform designed to simplify recruitment workflows for employer
 
 `Next.js` • `Express.js` • `MongoDB`
 
-**Repository**
+**🔗 Repository**
 
-`🔗 https://github.com/shariarnafis45/Hire-Loop-Client`
+`https://github.com/shariarnafis45/Hire-Loop-Client`
 
-**Live Demo**
+**🌐 Live Demo**
 
-`🌐 https://hire-loop-nafix.vercel.app/`
-
----
-
-## IdeaVault
-
-A platform for discovering, organizing, and sharing startup ideas with a clean developer-focused experience.
-
-**Tech Stack**
-
-`Next.js` • `React` • `MongoDB`
-
-**Repository**
-
-`🔗 https://github.com/shariarnafis45/Idea-Vault-Client-Side`
-
-**Live Demo**
-
-`🌐 https://idea-vault-nafix.vercel.app/`
+`https://hire-loop-nafix.vercel.app/`
 
 ---
 
@@ -195,10 +177,10 @@ GitHub
 <a href="https://linkedin.com/in/shariarnafis">
 LinkedIn
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#">
 Portfolio
-</a>
+</a> -->
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:nafisshahworkmail@gmail.com">
 Email
@@ -214,6 +196,21 @@ Twitter
 
 <div align="center">
 
-*"Code with clarity. Build with purpose."*
+*"Building software that is scalable, maintainable, and meaningful."*
 
+## Core Expertise
+
+• Full Stack Web Development
+
+• REST API Development
+
+• Authentication & Authorization
+
+• Responsive UI Development
+
+• Performance Optimization
+
+• Clean Architecture
+
+• Modern SaaS Development
 </div>
