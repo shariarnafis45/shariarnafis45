@@ -145,7 +145,7 @@ A modern hiring platform designed to simplify recruitment workflows for employer
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=shariarnafis45&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=shariarnafis45&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
 />
 
 <img
