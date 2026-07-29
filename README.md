@@ -150,7 +150,7 @@ A modern hiring platform designed to simplify recruitment workflows for employer
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=shariarnafis45&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shariarnafis45"
 />
 
 <img
