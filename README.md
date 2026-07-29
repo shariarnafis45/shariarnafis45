@@ -100,7 +100,7 @@ Open Source Collaboration & Freelance Opportunities
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css,nodejs,express,mongodb,git,github,vscode,postman,vercel&perline=7" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css,nodejs,express,mongodb,wordpress,git,github,vscode,postman,figma,vercel&perline=8"/>
 
 </div>
 
