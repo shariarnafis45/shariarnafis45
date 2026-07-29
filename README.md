@@ -118,11 +118,11 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 **Repository**
 
-`https://github.com/shariarnafis45/Legal-Ease`
+`🔗 https://github.com/shariarnafis45/Legal-Ease`
 
 **Live Demo**
 
-`🌐 Coming Soon`
+`🌐 https://legal-ease-nafix.vercel.app/`
 
 ---
 
@@ -136,11 +136,11 @@ A modern hiring platform designed to simplify recruitment workflows for employer
 
 **Repository**
 
-`🔗 Coming Soon`
+`🔗 https://github.com/shariarnafis45/Hire-Loop-Client`
 
 **Live Demo**
 
-`🌐 Coming Soon`
+`🌐 https://hire-loop-nafix.vercel.app/`
 
 ---
 
@@ -154,29 +154,11 @@ A platform for discovering, organizing, and sharing startup ideas with a clean d
 
 **Repository**
 
-`🔗 Coming Soon`
+`🔗 https://github.com/shariarnafis45/Idea-Vault-Client-Side`
 
 **Live Demo**
 
-`🌐 Coming Soon`
-
----
-
-## QurbaniHat
-
-Online livestock marketplace with booking functionality and a streamlined purchasing experience.
-
-**Tech Stack**
-
-`Next.js` • `Express.js` • `MongoDB`
-
-**Repository**
-
-`🔗 Coming Soon`
-
-**Live Demo**
-
-`🌐 Coming Soon`
+`🌐 https://idea-vault-nafix.vercel.app/`
 
 ---
 
@@ -184,9 +166,9 @@ Online livestock marketplace with booking functionality and a streamlined purcha
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shariarnafis45&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarnafis45&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -196,27 +178,7 @@ Online livestock marketplace with booking functionality and a streamlined purcha
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
-# Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" />
+<img src="https://streak-stats.demolab.com?user=shariarnafis45&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -226,24 +188,24 @@ Online livestock marketplace with booking functionality and a streamlined purcha
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/shariarnafis45">
 GitHub
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/shariarnafis">
 LinkedIn
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://yourportfolio.com">
+<a href="#">
 Portfolio
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:nafisshahworkmail@gmail.com">
 Email
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://facebook.com/yourusername">
-Facebook
+<a href="https://x.com/shariarnafis45">
+Twitter
 </a>
 
 </div>
