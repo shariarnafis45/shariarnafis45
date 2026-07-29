@@ -27,7 +27,6 @@ Building scalable, high-performance web applications with clean architecture, in
 
 </div>
 
----
 
 # About Me
 
@@ -37,7 +36,6 @@ My primary stack includes **Next.js, React, Node.js, Express.js, and MongoDB**, 
 
 I enjoy transforming ideas into production-ready digital products while maintaining clean architecture, reusable code, and exceptional user experience.
 
----
 
 # Currently
 
@@ -94,7 +92,6 @@ Open Source Collaboration & Freelance Opportunities
 </tr>
 </table>
 
----
 
 # Tech Stack
 
@@ -104,7 +101,6 @@ Open Source Collaboration & Freelance Opportunities
 
 </div>
 
----
 
 # Featured Projects
 
@@ -124,7 +120,6 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://legal-ease-nafix.vercel.app/)
 
----
 
 ## HireLoop
 
@@ -136,13 +131,13 @@ A modern hiring platform designed to simplify recruitment workflows for employer
 
 **🔗 Repository**
 
-`https://github.com/shariarnafis45/Hire-Loop-Client`
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Hire-Loop-Client)
+
 
 **🌐 Live Demo**
 
-`https://hire-loop-nafix.vercel.app/`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://hire-loop-nafix.vercel.app/)
 
----
 
 # GitHub Analytics
 
@@ -160,7 +155,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarnafis
 
 </div>
 
----
 
 # GitHub Streak
 
@@ -170,7 +164,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarnafis
 
 </div>
 
----
 
 # Connect
 
@@ -198,7 +191,6 @@ Twitter
 
 </div>
 
----
 
 <div align="center">
 
