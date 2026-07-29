@@ -9,16 +9,16 @@
 Building scalable, modern web applications with clean architecture, thoughtful user experiences, and maintainable code.
 
 <p>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/shariarnafis45">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/shariarnafis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:nafisshahworkmail@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -118,7 +118,7 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 **Repository**
 
-`🔗 Coming Soon`
+`🔗 https://github.com/shariarnafis45/Legal-Ease`
 
 **Live Demo**
 
