@@ -112,13 +112,7 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
-**🔗 Repository**
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Legal-Ease)
-
-**🌐 Live Demo**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://legal-ease-nafix.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Legal-Ease) • [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://legal-ease-nafix.vercel.app/)
 
 
 ## HireLoop
