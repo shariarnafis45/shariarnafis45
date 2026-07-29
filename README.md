@@ -118,11 +118,11 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 **🔗 Repository**
 
-`https://github.com/shariarnafis45/Legal-Ease`
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Legal-Ease)
 
 **🌐 Live Demo**
 
-`https://legal-ease-nafix.vercel.app/`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://legal-ease-nafix.vercel.app/)
 
 ---
 
@@ -206,17 +206,17 @@ Twitter
 
 ## Core Expertise
 
-• Full Stack Web Development
+🏗 Full Stack Web Development
 
-• REST API Development
+⚡ REST API Development
 
-• Authentication & Authorization
+🔐 Authentication & Authorization
 
-• Responsive UI Development
+📱 Responsive UI Development
 
-• Performance Optimization
+🚀 Performance Optimization
 
-• Clean Architecture
+🧩 Clean Architecture
 
-• Modern SaaS Development
+💼 Modern SaaS Development
 </div>
