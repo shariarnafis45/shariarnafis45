@@ -123,14 +123,7 @@ A modern hiring platform designed to simplify recruitment workflows for employer
 
 `Next.js` • `Express.js` • `MongoDB`
 
-**🔗 Repository**
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Hire-Loop-Client)
-
-
-**🌐 Live Demo**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://hire-loop-nafix.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/shariarnafis45/Hire-Loop-Client) &nbsp; &#8226; &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://hire-loop-nafix.vercel.app/)
 
 
 # GitHub Analytics
