@@ -118,7 +118,7 @@ Modern lawyer hiring platform connecting clients with legal professionals throug
 
 **Repository**
 
-`🔗 https://github.com/shariarnafis45/Legal-Ease`
+`https://github.com/shariarnafis45/Legal-Ease`
 
 **Live Demo**
 
